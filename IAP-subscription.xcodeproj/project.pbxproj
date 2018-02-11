@@ -58,11 +58,11 @@
 			children = (
 				C5AC8FE72030797900147B72 /* AppDelegate.swift */,
 				C5AC8FE92030797900147B72 /* PurchaseVC.swift */,
+				C5AC8FF920307DBB00147B72 /* MainVC.swift */,
 				C5AC8FEB2030797A00147B72 /* Main.storyboard */,
 				C5AC8FEE2030797A00147B72 /* Assets.xcassets */,
 				C5AC8FF02030797A00147B72 /* LaunchScreen.storyboard */,
 				C5AC8FF32030797A00147B72 /* Info.plist */,
-				C5AC8FF920307DBB00147B72 /* MainVC.swift */,
 			);
 			path = "IAP-subscription";
 			sourceTree = "<group>";
